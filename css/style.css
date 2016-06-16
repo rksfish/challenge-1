@@ -1,8 +1,41 @@
 #header{
 	background-color: skyblue;
-	font-size: 40px;
+	font-size: 32px;
 	text-align: center;
-	padding: 100px;
+	padding: 50px;
 	padding-top: 30px;
 	color: white;
+}
+
+.circle{
+	height: 150px;
+	width: 150px;
+	display: inline-block;
+	background-color: white;
+	border-radius: 150px;
+	margin: 10px 50px;
+}
+
+#square{
+	margin: auto;
+	text-align: center;
+	margin-top: 40px;
+	height: 200px;
+	width: 600px;
+	background-color: lightgrey;
+}
+
+#content_wrapper{
+	margin: auto;
+	text-align: left;
+	font-size: 32px;
+	color: lightgrey;
+}
+
+#content_wrapper2{
+	margin: auto;
+	text-align: center;
+	font-size: 24px;
+	color: lightgrey;
+	width: 400px;
 }
